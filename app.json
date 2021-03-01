@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "student-attendance-project",
+    "slug": "snack-a9f62cc8-e72f-4538-ab1f-8654e85ef4b5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android":{
+      "package":"com.testuser.studentattendance"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":"com.testuser.studentattendance"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
